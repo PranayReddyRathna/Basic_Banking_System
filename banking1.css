@@ -1,0 +1,134 @@
+html,body{
+    margin:0px;
+    padding:0px;
+}
+.bb{
+    background-image: url("banking18.jpg");
+    background-size: 1400px 1200px;
+    background-blend-mode: multiply;
+    margin-top: 0%;
+    background-color: rgb(95, 119, 223)
+}
+.head1{
+    display:inline;
+    text-align: right;
+    background: darkblue;
+}
+.head1 li{
+    display: inline-block;
+    padding:20px;
+    text-align: right;
+    font-family: 'Acme', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+.head1 a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-style: bold;
+}
+.head3 a:hover{
+    background-color: gray;
+    font-size: 20px;
+}
+.head2{
+    text-align:center;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 25px;
+}
+
+.head3{
+   
+    background-size: cover;
+    background-image: url("banking16.jpg");
+    background-size: 700px 300px;
+    background-color: rgb(95, 193, 223);
+    color:whitesmoke;
+}
+.gap{
+    margin-bottom: 0%;
+    text-align:right;
+    color: white;
+    padding:2px;
+    font-family: 'Work Sans', sans-serif;
+}
+.main1{
+    text-align:center;
+    display:inline;
+}
+.main1 li{
+    display:inline-block;
+    padding: 40px;
+    
+}
+.main1 a{
+    text-decoration: none;
+    padding:100px;
+    color:whitesmoke;
+}
+.main2{
+    text-align:center;
+    padding-bottom: 20px;
+    color:white;
+}
+.main5{
+    padding-bottom: 20px;
+}
+.main3{
+    display:inline;
+    text-align: center;
+    color:#E6E6E6;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+}
+.main3 li{
+    display:inline-block;
+    padding:10px;
+}
+.foot{
+    text-align: center;
+}
+.foot li{
+    display:inline;
+}
+.foot1{
+    text-align:center;
+}
+.foot2{
+    text-align:center;
+}
+.foot3 li{
+    padding:10px;
+}
+.ll{
+    margin-top: 0%;
+}
+.pp:hover{
+    background-color:lightslategray;
+    /* width: 10px;
+    height: 10px; */
+    transition:all 200ms linear;
+}
+
+.form1{
+    text-align: center;
+}
+body{
+    background-image: url(grey.jpg);
+    background-size: cover;
+}
+
+.inside{
+    padding: 10px;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+select{
+
+    width: 80px;
+    height: 30px;
+}
